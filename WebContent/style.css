@@ -1,0 +1,64 @@
+body{
+	width:1000px;
+}
+
+#top{
+	 border-bottom: 1px solid;
+	 border-left: 1px solid;
+	 border-top: 1px solid;
+	 border-right: 1px solid;
+	 background-image: url("http://hdresimler.com/wallpapers/mavi_matrix_binary_kodlari-1680x1050.jpg");
+}
+
+#center{
+	min-height: 500px;
+	border-left: 1px solid;
+	border-right: 1px solid;
+	 background-image: url("");
+}
+
+#bottom{
+	border-top:1px solid;
+	border-left: 1px solid;
+	border-top: 1px solid;
+	border-bottom: 1px solid;
+	border-right: 1px solid;
+	background-image: url("http://hdresimler.com/wallpapers/mavi_matrix_binary_kodlari-1680x1050.jpg");
+}
+
+#menu{
+	border-bottom: 1px solid;
+	padding: 3px;
+	border-left: 1px solid;
+	border-right: 1px solid;
+	background-image:  url("http://thumbs.dreamstime.com/x/binary-code-white-v2-4412606.jpg");
+}
+
+.menulink{
+	margin-right: 5px;
+	border-left: 1px solid;
+	border-top: 1px solid;
+	border-right: 1px solid;
+}
+
+#centerleft{
+	width: 150px;
+	border-right: 1px solid ;
+	float: left;
+	min-height: 499px;
+	
+	
+}
+#centerright{
+	
+	
+	float: left;
+	min-height: 499px;
+}
+
+.oku{
+	float:left;
+}
+
+
+
